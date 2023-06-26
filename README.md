@@ -33,7 +33,8 @@ Regras:
 
  O mecanismo de receber dano funcionará atraves do método takeDamage, o qual fará com que um campeão receba dando do outro conforme as regras citadas.
 
-
+### OBS: 
+ No desenvolvimento, utilizamos o encapsulamento dos atributos da classe de cada campeão. 
 
 ______________________________________________________________________________________________
 
